@@ -105,20 +105,27 @@ API: http://127.0.0.1:8000/login
 ----------------------------------------
 
 --- Probando longitud 1 (10 combinaciones posibles) ---
+
 [!] Longitud 1 agotada sin éxito
 
 --- Probando longitud 2 (100 combinaciones posibles) ---
+
 [!] Longitud 2 agotada sin éxito
 
 --- Probando longitud 3 (1000 combinaciones posibles) ---
+
 [!] Longitud 3 agotada sin éxito
 
 --- Probando longitud 4 (10000 combinaciones posibles) ---
 
 [+] ¡ÉXITO! Contraseña encontrada: '1234' (longitud 4)
+
 [+] Intentos totales: 2345
+
 [+] Tiempo total: 138.44 segundos
+
 [+] Tasa promedio: 16.94 intentos/segundo
+
 === FIN DEL ATAQUE ===
 
 ## No.2:
