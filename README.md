@@ -14,8 +14,11 @@ No se debe ejecutar este código contra sistemas externos a menos que se desee t
 ## Estructura del proyecto
 
 ├── main.py # API con FastAPI (CRUD + login)
+
 ├── Brute_Force.py # Script de ataque de fuerza bruta
+
 ├── requirements1.txt # Dependencias necesarias
+
 └── README.md # Este archivo
 
 -------------------------------------------------------------------
