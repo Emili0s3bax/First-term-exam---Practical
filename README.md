@@ -137,19 +137,26 @@ API: http://127.0.0.1:8000/login
 ----------------------------------------
 
 --- Probando longitud 1 (10 combinaciones posibles) ---
+
 [!] Longitud 1 agotada sin éxito
 
 --- Probando longitud 2 (100 combinaciones posibles) ---
+
 [!] Longitud 2 agotada sin éxito
 
 --- Probando longitud 3 (1000 combinaciones posibles) ---
+
 [!] Longitud 3 agotada sin éxito
 
 --- Probando longitud 4 (10000 combinaciones posibles) ---
+
 [!] Longitud 4 agotada sin éxito
 
 [!] Ataque finalizado sin éxito (agotó 11110 combinaciones).
+
 [!] Intentos totales: 11110
+
 [!] Tiempo total: 8.81 segundos
+
 [!] Tasa: 1261.5 intentos/segundo
 === FIN DEL ATAQUE ===
