@@ -92,10 +92,15 @@ El script probará credenciales contra el endpoint /login de la API y mostrará 
 ## No.1:
 
 Ingresa el usuario objetivo: admin
+
 === ATAQUE DE FUERZA BRUTA CLÁSICA (VERSIÓN SIMPLE) ===
+
 Objetivo: Usuario 'admin'
+
 Charset: 0123456789 (tamaño: 10)
+
 Espacio total estimado (hasta 4 chars): ~11110 combinaciones
+
 API: http://127.0.0.1:8000/login
 ----------------------------------------
 
@@ -119,10 +124,15 @@ API: http://127.0.0.1:8000/login
 ## No.2:
 
 Ingresa el usuario objetivo: Matias
+
 === ATAQUE DE FUERZA BRUTA CLÁSICA (VERSIÓN SIMPLE) ===
+
 Objetivo: Usuario 'Matias'
+
 Charset: 0123456789 (tamaño: 10)
+
 Espacio total estimado (hasta 4 chars): ~11110 combinaciones
+
 API: http://127.0.0.1:8000/login
 ----------------------------------------
 
